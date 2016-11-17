@@ -1,3 +1,8 @@
+# YP Fork
+
+YP: https://bitbucket.int.yp.com/projects/POT/repos/tpkg-client/browse
+Upstream: https://github.com/tpkg/client
+
 # tpkg - Application Packaging and Deployment
 
 tpkg is a tool for packaging and deploying applications. It is designed
